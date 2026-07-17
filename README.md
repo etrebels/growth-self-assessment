@@ -31,7 +31,7 @@ Framework-agnostic TypeScript, zero runtime dependencies.
 
 ## Built by LangOptima
 
-LangOptima builds AI-ready data and knowledge-graph systems for enterprises, and runs the full-surface growth model behind this assessment. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
+LangOptima offers [growth services](https://www.langoptima.com/growth-offers/diagnostic) for B2B companies — diagnostics, growth sprints, and fractional growth leadership built on the full-surface growth model behind this assessment. This is one of our open-source [free tools](https://tools.langoptima.com) — [langoptima.com](https://www.langoptima.com).
 
 ## License
 
