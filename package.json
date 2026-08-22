@@ -1,10 +1,26 @@
 {
   "name": "@langoptima/growth-self-assessment",
   "version": "1.0.0",
+  "description": "Open-source self-assessment across the seven pillars of a full growth system — demand, acquisition, activation, conversion, retention, expansion, referral.",
   "private": false,
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etrebels/growth-self-assessment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/etrebels/growth-self-assessment/issues"
+  },
+  "homepage": "https://github.com/etrebels/growth-self-assessment#readme",
   "main": "./src/index.ts",
   "types": "./src/index.ts",
+  "files": [
+    "src",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "typecheck": "tsc --noEmit",
     "test": "vitest run"
